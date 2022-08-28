@@ -1,0 +1,1 @@
+/Users/zhangziying/Desktop/wordle-ziying-z21/ui/target/debug/t: /Users/zhangziying/Desktop/wordle-ziying-z21/ui/src/builtin_words.rs /Users/zhangziying/Desktop/wordle-ziying-z21/ui/src/check_word.rs /Users/zhangziying/Desktop/wordle-ziying-z21/ui/src/main.rs /Users/zhangziying/Desktop/wordle-ziying-z21/ui/theme.toml
